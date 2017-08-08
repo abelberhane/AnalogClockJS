@@ -1,0 +1,7 @@
+Use an SVG Image
+Use Methods to get the current time
+Use variables to hold information
+Use methods to turn the variables into minutes, hours, and seconds
+Operators to change variables to degrees for the circle
+Use DOM elements to position the hands
+
